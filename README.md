@@ -12,4 +12,6 @@ Available Citation
   number={},
   pages={1-1},
   keywords={Computer crime;Support vector machines;Telecommunication traffic;Network intrusion detection;Training;Security;Data models;Cyber Security;Data Resampling;Deep Learning;Ensemble Learning;Intrusion Detection System},
-  doi={10.1109/TNSM.2024.3414305}}
+  doi={10.1109/TNSM.2024.3414305}
+}
+
