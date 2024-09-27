@@ -1,5 +1,5 @@
 # ENIDS
-ENIDS (Ensemble Network Intrusion Detection System) is a mater's thesis work at Western University
+ENIDS (Ensemble Network Intrusion Detection System) is a master's thesis work at Western University
 
 Available Citation
 
